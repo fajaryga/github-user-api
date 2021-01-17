@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="app_name_detail">Detail Pengguna</string>
+    <string name="search_title">Pencarian pengguna…</string>
+
+    <string name="double_back_pressed_to_exit">Tekan lagi untuk keluar</string>
+</resources>

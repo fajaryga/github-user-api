@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="app_name_detail">Detail User</string>
+    <string name="search_title">Search user…</string>
+    <string name="double_back_pressed_to_exit">Press again to exit</string>
+</resources>
